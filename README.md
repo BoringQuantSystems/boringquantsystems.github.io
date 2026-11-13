@@ -1,6 +1,6 @@
-# boringquantsystems.github.io
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 
-The BoringQuantSystems website: exact, reproducible engines for markets. A machine-made house.
+`boringquantsystems.github.io` is the BoringQuantSystems website: exact, reproducible engines for markets. A machine-made house.
 
 The page is built by the machine-made site generator
 ([machine-made/machine-made.github.io](https://github.com/machine-made/machine-made.github.io)),
