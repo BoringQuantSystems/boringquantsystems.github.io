@@ -1,3 +1,5 @@
+![boringquantsystems.github.io banner](https://raw.githubusercontent.com/BoringQuantSystems/boringquantsystems.github.io/main/assets/readme-banner-v3.jpg)
+
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 
 `boringquantsystems.github.io` is the BoringQuantSystems website: exact, reproducible engines for markets. A machine-made house.
