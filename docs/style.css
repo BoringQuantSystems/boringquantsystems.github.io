@@ -1,7 +1,7 @@
 @font-face{font-family:"machine-made Weft";src:url(fonts/mm-weft.woff2) format("woff2");font-weight:100 900;font-style:normal;font-display:swap}
 @font-face{font-family:"EB Garamond";src:url(fonts/eb-garamond-400.woff2) format("woff2");font-weight:400;font-style:normal;font-display:swap}
 :root{--bg:#050507;--fg:#ecebe6;--muted:#8b8b90;--accent:#3ddc97;--edge:#1e1e20;--font:"EB Garamond", Georgia, "Times New Roman", serif;--mono:"machine-made Weft", ui-monospace, "SF Mono", Menlo, Consolas, monospace;--fs:1.125rem;--ls:1.6875rem;}
-/* The colours, the fonts and the sizes of a house come first, from build.py (:root). */
+/* The colours, the fonts and the sizes of a house come first (:root). */
 
 :root {
   --gutter: 16px;
@@ -105,6 +105,7 @@ a:focus-visible {
 .bar a {
   padding-block: 6px;
   color: var(--muted);
+  overflow-wrap: anywhere;
 }
 
 .bar a[aria-current="page"] {
@@ -184,6 +185,7 @@ a:focus-visible {
   display: grid;
   gap: 4px;
   min-width: 0;
+  overflow: hidden;
 }
 
 .pic {
