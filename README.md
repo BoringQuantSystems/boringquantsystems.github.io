@@ -23,3 +23,7 @@ Do not edit `docs/` by hand.
 ## Pages
 
 Source: `main`, folder `/docs`.
+
+## Licence
+
+Apache-2.0. See [LICENSE](LICENSE). The fonts in `docs/fonts/` stay under the SIL Open Font License 1.1. See `docs/fonts/mm-sans-OFL.txt` and `docs/fonts/mm-weft-OFL.txt`.
