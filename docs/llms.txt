@@ -1,16 +1,15 @@
 # BoringQuantSystems
 
-> Boring means trustworthy.
+> Boring on purpose. Deterministic infrastructure for non-deterministic systems.
 
-A machine-made house: exact, reproducible engines for markets.
+The best systems are the ones nobody talks about. BoringQuantSystems aims to be one of them.
 
 ## Engines
 
-- [nanobook](https://github.com/BoringQuantSystems/nanobook): Rust execution layer for Python trading strategies: order book, backtests, pre-trade risk
+- [nanobook](https://github.com/BoringQuantSystems/nanobook): an order book and backtests, in Rust
 
-## Houses
+## Sites
 
-- [machine-made](https://machine-made.github.io/): the umbrella over every house
-- [openfluids](https://openfluids.github.io/): open tools for fluid mechanics
-
-An open-source workshop. Built by agents, guided by humans.
+- [machine-made](https://machine-made.github.io/)
+- [openfluids](https://openfluids.github.io/)
+- [BoringQuantSystems](https://boringquantsystems.github.io/)
