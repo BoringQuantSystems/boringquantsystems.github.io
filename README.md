@@ -10,12 +10,12 @@ the same code, look and tab row as every house. This repository holds the built 
 
 ## Change the site
 
-The content lives in the generator repository, `houses/boringquantsystems/site.json`, with its
-public list in `houses/boringquantsystems/allow.json`. Build it into this repository and open a
-pull request:
+The content lives in the generator repository, machine-made/machine-made.github.io:
+`houses/boringquantsystems/site.json`, with its public list in `houses/boringquantsystems/allow.json`. From a
+checkout of that repository, build the site into a checkout of this one and open a pull request here:
 
 ```
-sh publish.sh boringquantsystems ../boringquantsystems.github.io
+sh publish.sh boringquantsystems "PATH_TO_THIS_CHECKOUT"
 ```
 
 Do not edit `docs/` by hand.
@@ -26,4 +26,4 @@ Source: `main`, folder `/docs`.
 
 ## Licence
 
-Apache-2.0. See [LICENSE](LICENSE). The fonts in `docs/fonts/` stay under the SIL Open Font License 1.1. See `docs/fonts/mm-sans-OFL.txt` and `docs/fonts/mm-weft-OFL.txt`.
+Apache-2.0. See [LICENSE](LICENSE). The fonts in `docs/fonts/` stay under the SIL Open Font License 1.1. See `docs/fonts/mm-warp-OFL.txt` and `docs/fonts/mm-weft-OFL.txt`.
