@@ -15,7 +15,7 @@ The content lives in the generator repository, machine-made/machine-made.github.
 checkout of that repository, build the site into a checkout of this one and open a pull request here:
 
 ```
-sh publish.sh boringquantsystems PATH_TO_THIS_CHECKOUT
+sh publish.sh boringquantsystems "PATH_TO_THIS_CHECKOUT"
 ```
 
 Do not edit `docs/` by hand.
