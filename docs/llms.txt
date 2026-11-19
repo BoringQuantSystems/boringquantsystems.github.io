@@ -13,3 +13,4 @@ The best systems are the ones nobody talks about. BoringQuantSystems aims to be 
 - [machine-made](https://machine-made.github.io/)
 - [openfluids](https://openfluids.github.io/)
 - [BoringQuantSystems](https://boringquantsystems.github.io/)
+- [type](https://machine-made.github.io/type/)
