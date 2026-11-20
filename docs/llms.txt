@@ -2,8 +2,6 @@
 
 > Boring on purpose. Deterministic infrastructure for non-deterministic systems.
 
-The best systems are the ones nobody talks about. BoringQuantSystems aims to be one of them.
-
 ## Engines
 
 - [nanobook](https://github.com/BoringQuantSystems/nanobook): an order book and backtests, in Rust
